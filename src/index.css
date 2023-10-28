@@ -16,12 +16,11 @@
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
- 
+ overflow: hidden;
 }
 body{
   width: 100vw !important;
-  height: 100% !important;
-  overflow: hidden !important;
+
   
 }
 @media (min-width: 1440px) {
