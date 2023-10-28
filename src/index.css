@@ -134,11 +134,15 @@ z-index: 1;
 }
 
 .slider-controler .swiper-button-next {
-  left: 78% !important;
-  transform: translateX(-78%) !important;
+  left: 58% !important;
+  transform: translateX(-58%) !important;
 }
 
-
+@media(max-width: 911px){
+.slider-controler .swiper-button-next {
+display: none;
+}
+  }
 .slider-controler .slider-arrow {
   background: var(--white);
   width: 3.5rem;
