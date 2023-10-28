@@ -139,7 +139,7 @@ z-index: 1;
 }
 
 @media(max-width: 911px){
-.slider-controler .swiper-button-next {
+.slider-controler .swiper-button-next, .slider-controler .swiper-button-prev {
 display: none;
 }
   }
