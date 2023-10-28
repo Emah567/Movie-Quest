@@ -18,7 +18,7 @@ Welcome to Movie Quest, your one-stop destination for discovering and exploring 
 
 ## How to Use
 
-1. Visit the [Movie Quest website](https://www.moviequest.vercell.app).
+1. Visit the [Movie Quest website](https://www.moviequest-all.vercell.app).
 
 2. Use the search bar to enter the title of the movie you want to explore. Click the search button.
 
